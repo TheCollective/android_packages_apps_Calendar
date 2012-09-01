@@ -23,7 +23,7 @@
 
     <color name="selection">@android:color/holo_blue_light</color>
 
-    <color name="today_highlight_color">#0033b5e5</color>
+    <color name="today_highlight_color">#008e200</color>
 
     <!-- The app wide background color -->
     <color name="background_color">#fafafa</color>
@@ -46,7 +46,7 @@
 
     <color name="calendar_date_banner_text_color">#ff666666</color>
 
-    <color name="calendar_grid_area_selected">#e633b5e5</color>
+    <color name="calendar_grid_area_selected">#e68e200</color>
 
 
     <color name="calendar_grid_line_inner_horizontal_color">#FFCCCCCC</color>
@@ -125,9 +125,9 @@
     <color name="new_event_hint_text_color">#FFFFFFFF</color>
 
     <!-- Text color of a clicked event in the day/week view -->
-    <color name="day_event_clicked_background_color">#8033B5E5</color>
+    <color name="day_event_clicked_background_color">#808e200</color>
     <!-- background color for for clicked days in month view-->
-    <color name="day_clicked_background_color">#FF33B5E5</color>
+    <color name="day_clicked_background_color">#FF8e200</color>
     <!-- background color for the past -->
     <color name="day_past_background_color">#FFDDDDDD</color>
 
