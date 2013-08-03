@@ -23,7 +23,7 @@
 
     <color name="selection">@android:color/holo_blue_light</color>
 
-    <color name="today_highlight_color">#00ff8e00</color>
+    <color name="today_highlight_color">#0033b5e5</color>
 
     <!-- The app wide background color -->
     <color name="background_color">#fafafa</color>
@@ -46,7 +46,7 @@
 
     <color name="calendar_date_banner_text_color">#ff666666</color>
 
-    <color name="calendar_grid_area_selected">#e6ff8e00</color>
+    <color name="calendar_grid_area_selected">#e633b5e5</color>
 
 
     <color name="calendar_grid_line_inner_horizontal_color">#FFCCCCCC</color>
@@ -70,15 +70,10 @@
     <color name="month_sunday">#80333333</color>
     <color name="month_grid_lines">#ffCCCCCC</color>
     <color name="month_other_month_day_number">#ff939497</color>
-
-
-
     <color name="month_other_bgcolor">#FFEEEEEE</color>
     <color name="month_selected_week_bgcolor">#FFDDDDDD</color>
     <color name="month_today_bgcolor">#FFFFFFFF</color>
     <color name="month_bgcolor">#FFE5E5E5</color>
-
-
 
     <color name="month_dna_conflict_time_color">#FF333333</color>
 
@@ -125,9 +120,9 @@
     <color name="new_event_hint_text_color">#FFFFFFFF</color>
 
     <!-- Text color of a clicked event in the day/week view -->
-    <color name="day_event_clicked_background_color">#80ff8e00</color>
+    <color name="day_event_clicked_background_color">#8033B5E5</color>
     <!-- background color for for clicked days in month view-->
-    <color name="day_clicked_background_color">#FFff8e00</color>
+    <color name="day_clicked_background_color">#FF33B5E5</color>
     <!-- background color for the past -->
     <color name="day_past_background_color">#FFDDDDDD</color>
 
@@ -140,6 +135,11 @@
     <color name="event_info_body_color">#FF666666</color>
     <color name="event_info_label_color">#FF999999</color>
     <color name="event_info_label_background_color">#FFDDDDDD</color>
+
+    <!-- Create event colors -->
+    <color name="create_event_date_color">#FF000000</color>
+    <color name="create_event_more_details_color">#FF888888</color>
+    <color name="create_event_divider_color">#FFDDDDDD</color>
 
     <color name="text_shadow_color">#4D000000</color>
 
@@ -164,4 +164,7 @@
     <color name="appwidget_when">#ffffffff</color>
     <color name="appwidget_where">#ffffffff</color>
     <color name="appwidget_no_events">#ffffffff</color>
+
+    <color name="recurrence_picker_background">#fff2f2f2</color>
+    <color name="recurrence_bubble_text_normal">#ff737373</color>
 </resources>
